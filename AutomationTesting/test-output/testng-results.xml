@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27862" started-at="2019-04-07T17:04:03Z" finished-at="2019-04-07T17:04:31Z">
+  <suite name="Default suite" duration-ms="95761" started-at="2019-04-17T18:06:41Z" finished-at="2019-04-17T18:08:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27862" started-at="2019-04-07T17:04:03Z" finished-at="2019-04-07T17:04:31Z">
+    <test name="Default test" duration-ms="95761" started-at="2019-04-17T18:06:41Z" finished-at="2019-04-17T18:08:17Z">
       <class name="testCases.Homepage">
-        <test-method status="PASS" signature="f()[pri:0, instance:testCases.Homepage@475530b9]" name="f" duration-ms="27815" started-at="2019-04-07T17:04:03Z" finished-at="2019-04-07T17:04:31Z">
+        <test-method status="PASS" signature="TC_03()[pri:0, instance:testCases.Homepage@475530b9]" name="TC_03" duration-ms="95716" started-at="2019-04-17T18:06:41Z" finished-at="2019-04-17T18:08:17Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- f -->
+        </test-method> <!-- TC_03 -->
       </class> <!-- testCases.Homepage -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
