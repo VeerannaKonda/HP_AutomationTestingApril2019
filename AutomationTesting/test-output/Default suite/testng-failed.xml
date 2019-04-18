@@ -5,7 +5,7 @@
     <classes>
       <class name="testCases.Homepage">
         <methods>
-          <include name="f"/>
+          <include name="TC_03"/>
         </methods>
       </class> <!-- testCases.Homepage -->
     </classes>
